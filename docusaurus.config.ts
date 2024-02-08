@@ -15,8 +15,9 @@ const config: Config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'UNST Politehnica Bucharest', // Usually your GitHub org/user name.
-  projectName: 'sde2', // Usually your repo name.
+  organizationName: 'UPB-FILS-SdE2', // Usually your GitHub org/user name.
+  projectName: 'website', // Usually your repo name.
+  trailingSlash: false,
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
