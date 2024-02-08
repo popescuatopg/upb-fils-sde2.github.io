@@ -16,7 +16,7 @@ const config: Config = {
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'UPB-FILS-SdE2', // Usually your GitHub org/user name.
-  projectName: 'website', // Usually your repo name.
+  projectName: 'upb-fils-sde2.github.io', // Usually your repo name.
   trailingSlash: false,
 
   onBrokenLinks: 'throw',
@@ -39,15 +39,15 @@ const config: Config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/UPB-FILS-SdE2/website.git',
+            'https://github.com/UPB-FILS-SdE2/upb-fils-sde2.git',
         },
-        blog: {
-          showReadingTime: true,
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
-        },
+        // blog: {
+        //   showReadingTime: true,
+        //   // Please change this to your repo.
+        //   // Remove this to remove the "edit this page" links.
+        //   editUrl:
+        //     'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+        // },
         theme: {
           customCss: './src/css/custom.css',
         },
@@ -68,7 +68,7 @@ const config: Config = {
         {to: '/docs/category/cours', label: 'Cours', position: 'left'},
         {to: '/docs/category/tp', label: 'TP', position: 'left'},
         {
-          href: 'https://github.com/UPB-FILS-SdE2/website.git',
+          href: 'https://github.com/UPB-FILS-SdE2/upb-fils-sde2.git',
           label: 'GitHub',
           position: 'right',
         },
