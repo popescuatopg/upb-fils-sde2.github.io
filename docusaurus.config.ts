@@ -39,7 +39,7 @@ const config: Config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/UPB-FILS-SdE2/website.git',
+            'https://github.com/UPB-FILS-SdE2/upb-fils-sde2.git',
         },
         // blog: {
         //   showReadingTime: true,
