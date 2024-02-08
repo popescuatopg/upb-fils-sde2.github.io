@@ -39,7 +39,7 @@ const config: Config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/UPB-FILS-SdE2/upb-fils-sde2.git',
+            'https://github.com/UPB-FILS-SdE2/upb-fils-sde2.github.io',
         },
         // blog: {
         //   showReadingTime: true,
@@ -68,7 +68,7 @@ const config: Config = {
         {to: '/docs/category/cours', label: 'Cours', position: 'left'},
         {to: '/docs/category/tp', label: 'TP', position: 'left'},
         {
-          href: 'https://github.com/UPB-FILS-SdE2/upb-fils-sde2.git',
+          href: 'https://github.com/UPB-FILS-SdE2/upb-fils-sde2.github.io',
           label: 'GitHub',
           position: 'right',
         },
