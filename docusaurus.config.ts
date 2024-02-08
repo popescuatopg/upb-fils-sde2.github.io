@@ -78,16 +78,20 @@ const config: Config = {
       style: 'dark',
       links: [
         {
-          title: 'Docs',
+          title: 'Matériaux',
           items: [
             {
               label: 'Tutorial',
-              to: '/docs/intro',
+              to: '/docs/category/cours',
+            },
+            {
+              label: 'TP',
+              to: '/docs/category/tp',
             },
           ],
         },
         {
-          title: 'Community',
+          title: 'Communauté',
           items: [
             // {
             //   label: 'Stack Overflow',
@@ -104,12 +108,8 @@ const config: Config = {
           ],
         },
         {
-          title: 'More',
+          title: 'En Plus',
           items: [
-            {
-              label: 'Blog',
-              to: '/blog',
-            },
             {
               label: 'GitHub',
               href: 'https://github.com/upb-fils-sde2',
