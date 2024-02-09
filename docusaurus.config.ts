@@ -81,7 +81,7 @@ const config: Config = {
           title: 'Matériaux',
           items: [
             {
-              label: 'Tutorial',
+              label: 'Cours',
               to: '/docs/category/cours',
             },
             {
