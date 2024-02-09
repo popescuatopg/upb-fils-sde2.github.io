@@ -12,8 +12,7 @@ This pull request was tested by...
 
 This pull request still needs...
 
-
-### Formatting
+### Build
 
 - [ ] Ran `npm build`.
 
