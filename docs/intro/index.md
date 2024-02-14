@@ -1,5 +1,6 @@
 ---
 sidebar_position: 1
+slug: /intro
 ---
 
 # Bienvenue
@@ -11,8 +12,19 @@ Au cours de ce cours, vous apprendrez comment fonctionnent les systèmes d'explo
 
 ## Équipe
 
- - *Cours:* [Alexandru Radovici](https://github.com/alexandruradovici) - alexandru.radovici@upb.ro
- - *TP:* [Cristiana Andrei](https://github.com/Cristiana959) - cristiana.andrei@wyliodrin.com
+### Alexandru Radovici
+![Alexandru Radovici](images/alexandru_radovici.jpg)
+
+Professeur de cours \
+GitHub: [alexandruradovici](https://github.com/alexandruradovici) \
+Email: alexandru.radovici@upb.ro
+
+### Cristiana Andrei
+![Cristiana Andrei](images/cristiana_andrei.jpg)
+ 
+Professeur de TP \
+GitHub: [Cristiana959](https://github.com/Cristiana959) \
+Email: cristiana.andrei@wyliodrin.com
 
 ## Horaire
 
