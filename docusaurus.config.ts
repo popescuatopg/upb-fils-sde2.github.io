@@ -4,7 +4,7 @@ import type * as Preset from '@docusaurus/preset-classic';
 
 const config: Config = {
   title: 'Systèmes d\'exploitation 2',
-  tagline: 'Comment fonctionnent les logiciels et les ordinateurs',
+  tagline: 'Comment les logiciels et les ordinateurs interagissent',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
