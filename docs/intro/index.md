@@ -52,7 +52,7 @@ Email: cristiana.andrei@wyliodrin.com
 2. Les TPs **NE PEUVENT PAS ÊTRE RÉCUPÉRÉS**
 3. Vous pouvez motivez l’absence au TP(raison medical) dans maximum 2 semaines de la date de votre absence 
 4. Chaque étudiant doivent venir avec son groupe au TP, s'il y a des problèmes vous devez annoncer en avance.
-5. Vous pouvez être en retard de 10 minutes maximum au TP
+5. Vous pouvez être en retard de 15 minutes maximum au TP
 6. Les étudiants qui rattrapent la matière peuvent pas participer aux TPs seulement s'il y a des places libres. Afin d'obtenir des points, ils doivent résoudre des devoirs et passer l'examen final
 7. Vous aurez besoin d'un compte [github](https://www.github.com) avec votre nom complet et une vraie photo de profil.
 8. Pour 2 devoirs copiés (d'autres collègues ou des étudiants des années passées), vous allez échouer la matière
