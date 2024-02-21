@@ -4,7 +4,7 @@ import type * as Preset from '@docusaurus/preset-classic';
 
 const config: Config = {
   title: 'Systèmes d\'exploitation 2',
-  tagline: 'Dinosaurs are cool',
+  tagline: 'Comment les logiciels et les ordinateurs interagissent',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
@@ -82,7 +82,7 @@ const config: Config = {
           title: 'Matériaux',
           items: [
             {
-              label: 'Tutorial',
+              label: 'Cours',
               to: '/docs/category/cours',
             },
             {
