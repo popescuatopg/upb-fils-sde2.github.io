@@ -62,7 +62,7 @@ const config: Config = {
       title: 'Systèmes d\'exploitation 2',
       logo: {
         alt: 'Systèmes d\'exploitation 2',
-        src: 'img/logo.svg',
+        src: 'img/logo.png',
       },
       items: [
         {to: '/docs/category/cours', label: 'Cours', position: 'left'},
