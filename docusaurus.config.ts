@@ -96,16 +96,16 @@ const config: Config = {
           ],
         },
         {
-          title: 'Communauté',
+          title: 'Extra Bibliograhie',
           items: [
-            // {
-            //   label: 'Stack Overflow',
-            //   href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-            // },
-            // {
-            //   label: 'Discord',
-            //   href: 'https://discordapp.com/invite/docusaurus',
-            // },
+            {
+              label: 'Le langage de programmation Rust',
+              href: 'https://jimskapt.github.io/rust-book-fr/#le-langage-de-programmation-rust',
+            },
+            {
+              label: 'Écrire un système d\'exploitation dans Rust',
+              href: 'https://os.phil-opp.com/fr/',
+            },
             // {
             //   label: 'Twitter',
             //   href: 'https://twitter.com/docusaurus',
