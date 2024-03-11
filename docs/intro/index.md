@@ -62,4 +62,6 @@ Email: cristiana.andrei@wyliodrin.com
 
 1. **Andrew Tanenbaum**, *Modern Operating Systems (4th Edition)*
 2. **Abraham Silberschats, Peter Baer Galvin, Greg Galvin**, *Operating Systems Concepts (9th Edition)*
-3. **Steve Klabnic, Carol Nichols**, *The Rust Programming Language*, [online version](https://doc.rust-lang.org/book/), [version française](https://jimskapt.github.io/rust-book-fr/) - pourrait être obsolète
+3. **Neil Matthew, Rick Stones**, *Beginning Linux® Programming (4th Edition)*
+4. **Robert Love**, *LINUX System Programming*
+5. **Steve Klabnic, Carol Nichols**, *The Rust Programming Language*, [online version](https://doc.rust-lang.org/book/), [version française](https://jimskapt.github.io/rust-book-fr/) - pourrait être obsolète
