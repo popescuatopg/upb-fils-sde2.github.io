@@ -60,7 +60,7 @@ Email: cristiana.andrei@wyliodrin.com
  
 ## Bibliographie
 
-1. **Andrew Tanenbaum**, *Modern Operating Systems (4th Edition)*
+1. **Andrew Tanenbaum**, *Modern Operating Systems (2nd Edition)*
 2. **Abraham Silberschats, Peter Baer Galvin, Greg Galvin**, *Operating Systems Concepts (9th Edition)*
 3. **Neil Matthew, Rick Stones**, *Beginning Linux® Programming (4th Edition)*
 4. **Robert Love**, *LINUX System Programming*
